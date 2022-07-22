@@ -338,7 +338,7 @@
   )
 
   (no_connect (at 147.32 109.22) (uuid 117bc030-ed4e-4e3e-81d1-69716789638c))
-  (no_connect (at 127 109.22) (uuid 117bc030-ed4e-4e3e-81d1-69716789638d))
+  (no_connect (at 127 109.22) (uuid 117bc030-ed4e-4e3e-81d1-69716789638c))
 
   (wire (pts (xy 124.46 101.6) (xy 127 101.6))
     (stroke (width 0) (type default) (color 0 0 0 0))
